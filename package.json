@@ -1,0 +1,9 @@
+{
+  "name": "testdouble-ex",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "testdouble": "^3.16.6"
+  }
+}
